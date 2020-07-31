@@ -15,4 +15,4 @@ We try to make the variables in the codes as consistent as possible in the paper
     * The "detailed_foerstner" is a detailed description of the Forstner algorithm.
 
 ## Try it
-1. Clone or download it to read these codes and try to run them.
+1. Clone or download it to try.
