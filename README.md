@@ -1,5 +1,5 @@
 # meter_reading
-The code for the paper of "Auto-reading method for precision pointer meter based on ICM"
+For the paper of "Auto-reading method for precision pointer meter based on ICM"
 
 ## Introduction
 A matlab implementation of the method proposed in the paper "Auto-reading method for precision pointer meter based on ICM".
